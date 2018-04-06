@@ -1,2 +1,1 @@
-The video pretty much explains it all:
-https://www.youtube.com/watch?v=euG7-o9oPKg
+This project reads frames from a video and finds the plates both using a classifier and shape detection. Also pauses when it finds pottential plates and continues with space(or any key).
